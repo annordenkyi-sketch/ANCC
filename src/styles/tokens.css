@@ -1,0 +1,48 @@
+:root {
+  /* Brand */
+  --navy: #0b2545;
+  --navy-800: #0f2d55;
+  --navy-700: #1a3a6b;
+  --gold: #c6a15b;
+  --gold-600: #a8863d;
+  --gold-100: #f7efdb;
+
+  /* Neutral */
+  --white: #ffffff;
+  --cream: #faf9f6;
+  --ink: #121826;
+  --muted: #5a6372;
+  --line: #e7e3d8;
+
+  /* Status */
+  --live: #d93025;
+
+  /* Type */
+  --font-sans: system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue",
+    Arial, sans-serif;
+  --font-serif: Georgia, "Times New Roman", serif;
+
+  /* Spacing */
+  --sp-1: 4px;
+  --sp-2: 8px;
+  --sp-3: 12px;
+  --sp-4: 16px;
+  --sp-5: 24px;
+  --sp-6: 32px;
+  --sp-7: 48px;
+  --sp-8: 64px;
+
+  /* Radius */
+  --r-1: 6px;
+  --r-2: 10px;
+  --r-3: 16px;
+
+  /* Shadow */
+  --shadow-1: 0 1px 2px rgba(11, 37, 69, 0.06),
+    0 2px 8px rgba(11, 37, 69, 0.06);
+  --shadow-2: 0 4px 20px rgba(11, 37, 69, 0.12);
+
+  /* Layout */
+  --max-w: 1120px;
+  --gutter: 16px;
+}
